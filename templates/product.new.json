@@ -3,6 +3,7 @@
     "main": {
       "type": "hello-section",
       "settings": {
+        "text": "This is a {{ product.title }}"
       }
     }
   },
